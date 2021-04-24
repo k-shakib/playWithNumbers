@@ -1,0 +1,44 @@
+1. Write a c program to generate a
+following numbers structure: input 5.
+
+12345
+12345
+12345
+12345
+12345
+
+2. Write a c program to generate a
+following numbers structure:input 5.
+
+54321
+54321
+54321
+54321
+54321
+
+3. Write a c program to generate a
+following numbers structure:input 5.
+
+55555
+44444
+33333
+22222
+11111
+
+4. Write a c program to generate a
+following numbers structure.input 5.
+
+11111
+22222
+33333
+44444
+55555
+
+5. Write a c program to generate a
+following numbers structure:input 5.
+
+1
+12
+123
+1234
+12345
